@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CourierApp</string>
+    <string name="title_activity_google_map_delivery">Map</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
